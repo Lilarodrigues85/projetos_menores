@@ -301,3 +301,138 @@
   margin-left: 24px;
   margin-top: 47px;
 }
+
+.ana {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  width: 80px;
+  height: 40px;
+}
+
+.ana p{
+  display: flex;
+  margin-left: 37px;
+  width: 80px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4B4B4B
+}
+
+.carlos {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-left: 90px;
+  width: 80px;
+  height: 40px;
+}
+
+.carlos p{
+  width: 80px;
+  margin-left: 29px;
+}
+
+.carol {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-left: 175px;
+  width: 80px;
+  height: 40px;
+}
+
+.carol p{
+  width: 80px;
+  margin-left: 33px;
+}
+
+.eiji {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-top: 105px;
+  width: 80px;
+  height: 40px;
+}
+
+.eiji p{
+  width: 80px;
+  margin-left: 42px;
+}
+
+.fernando {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-top: 105px;
+  margin-left: 90px;
+  width: 80px;
+  height: 40px;
+}
+
+.fernando p{
+  width: 80px;
+  margin-left: 19px;
+}
+
+.julia {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-top: 105px;
+  margin-left: 175px;
+  width: 80px;
+  height: 40px;
+}
+
+.julia p{
+  width: 80px;
+  margin-left: 33px;
+}
+
+.matheus {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-top: 210px;
+  width: 80px;
+  height: 40px;
+}
+
+.matheus p{
+  width: 80px;
+  margin-left: 25px;
+}
+
+.ramos {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-top: 210px;
+  margin-left: 90px;
+  width: 80px;
+  height: 40px;
+}
+
+.ramos p{
+  width: 80px;
+  margin-left: 30px;
+}
+
+.vitor {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-top: 210px;
+  margin-left: 175px;
+  width: 80px;
+  height: 40px;
+}
+
+.vitor p{
+  width: 80px;
+  margin-left: 34px;
+}
