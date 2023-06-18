@@ -1,7 +1,8 @@
 #tudo{
   background-color: #cbe2fd;
   width: 100%;
-  height: 100vh;
+  height: 100%;
+
 }
 /*ajustando o Header*/
 #cabecalho {
@@ -91,7 +92,7 @@
   width: 280px;
   height: 324px;
   margin-left: 150px;
-  margin-top: 80px;
+  margin-top: 50px;
   border-radius: 16px;
 }
 #container #perfil p {
@@ -154,7 +155,7 @@
   width: 592px;
   height: 854px;
   margin-left: 550px;
-  margin-top: 80px;
+  margin-top: 50px;
   border-radius: 16px;
   background: #EFF3F8;
 }
@@ -269,7 +270,7 @@
   width: 280px;
   height: 411px;
   margin-left: 1250px;
-  margin-top: 80px;
+  margin-top: 50px;
   border-radius: 16px;
 }
 
@@ -312,7 +313,8 @@
 
 .ana p{
   display: flex;
-  margin-left: 37px;
+  margin-left: 39px;
+  margin-top: 2px;
   width: 80px;
   font-style: normal;
   font-weight: 400;
@@ -332,7 +334,13 @@
 
 .carlos p{
   width: 80px;
-  margin-left: 29px;
+  margin-left: 32px;
+  margin-top: 2px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4B4B4B
 }
 
 .carol {
@@ -346,7 +354,13 @@
 
 .carol p{
   width: 80px;
-  margin-left: 33px;
+  margin-left: 35px;
+  margin-top: 2px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4B4B4B
 }
 
 .eiji {
@@ -360,7 +374,13 @@
 
 .eiji p{
   width: 80px;
-  margin-left: 42px;
+  margin-left: 43px;
+  margin-top: 2px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4B4B4B
 }
 
 .fernando {
@@ -375,7 +395,13 @@
 
 .fernando p{
   width: 80px;
-  margin-left: 19px;
+  margin-left: 23px;
+  margin-top: 2px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4B4B4B
 }
 
 .julia {
@@ -390,7 +416,13 @@
 
 .julia p{
   width: 80px;
-  margin-left: 33px;
+  margin-left: 36px;
+  margin-top: 2px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4B4B4B
 }
 
 .matheus {
@@ -404,7 +436,13 @@
 
 .matheus p{
   width: 80px;
-  margin-left: 25px;
+  margin-left: 27px;
+  margin-top: 2px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4B4B4B
 }
 
 .ramos {
@@ -419,7 +457,13 @@
 
 .ramos p{
   width: 80px;
-  margin-left: 30px;
+  margin-left: 33px;
+  margin-top: 2px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4B4B4B
 }
 
 .vitor {
@@ -434,5 +478,236 @@
 
 .vitor p{
   width: 80px;
-  margin-left: 34px;
+  margin-left: 37px;
+  margin-top: 2px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4B4B4B
+}
+
+#comunidades{
+  position: absolute;
+  align-items: center;
+  background: #EFF3F8;
+  width: 280px;
+  height: 390px;
+  margin-left: 1250px;
+  margin-top: 513px;
+  border-radius: 16px;
+}
+
+.comunidade1 {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+  margin-top: 18px;
+}
+
+.comunidade1 .comunidade2 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #4B4B4B;
+}
+
+.comunidade1 .ver_todos2 {
+  margin-left: 48px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 24px; 
+  color: #ED2590;
+}
+
+#comunidades img {
+  margin-left: 24px;
+  margin-top: 47px;
+}
+
+.animes {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  width: 80px;
+  height: 40px;
+}
+
+.animes p{
+  display: flex;
+  margin-left: 27px;
+  margin-top: 2px;
+  width: 80px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4B4B4B
+}
+
+.cafe {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-left: 90px;
+  width: 80px;
+  height: 40px;
+}
+
+.cafe p{
+  display: flex;
+  margin-left: 37px;
+  margin-top: 2px;
+  width: 80px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4B4B4B
+}
+
+.carros {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-left: 175px;
+  width: 80px;
+  height: 40px;
+}
+
+.carros p{
+  width: 80px;
+  margin-left: 33px;
+  margin-top: 2px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4B4B4B
+}
+
+.crazy {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-top: 105px;
+  width: 80px;
+  height: 40px;
+}
+
+.crazy p{
+  width: 80px;
+  margin-left: 33px;
+  margin-top: 2px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4B4B4B
+}
+
+.desenhos {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-top: 105px;
+  margin-left: 90px;
+  width: 80px;
+  height: 40px;
+}
+
+.desenhos p{
+  width: 80px;
+  margin-left: 21px;
+  margin-top: 2px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4B4B4B
+}
+
+.fotos {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-top: 105px;
+  margin-left: 175px;
+  width: 80px;
+  height: 40px;
+}
+
+.fotos p{
+  width: 80px;
+  margin-left: 36px;
+  margin-top: 2px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4B4B4B
+}
+
+.leitura{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-top: 210px;
+  width: 80px;
+  height: 40px;
+}
+
+.leitura p{
+  width: 80px;
+  margin-left: 29px;
+  margin-top: 2px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4B4B4B
+}
+
+.meuovo {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-top: 210px;
+  margin-left: 90px;
+  width: 80px;
+  height: 40px;
+}
+
+.meuovo p{
+  width: 80px;
+  margin-left: 26px;
+  margin-top: 2px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4B4B4B
+}
+
+.mybooks {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-top: 210px;
+  margin-left: 175px;
+  width: 80px;
+  height: 40px;
+}
+
+.mybooks p{
+  width: 80px;
+  margin-left: 23px;
+  margin-top: 2px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4B4B4B
 }
