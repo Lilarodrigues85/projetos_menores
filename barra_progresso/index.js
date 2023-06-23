@@ -5,7 +5,7 @@ window.addEventListener("DOMContentLoaded",move=() => {
     j = 1;
     var elem = document.querySelector(".progresso-done");
 
-    var width = 50;
+    var width = 0;
     var main = setInterval(frame,50);
     function frame() {
       if (width >= 100) {
